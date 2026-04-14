@@ -121,8 +121,8 @@
         <mxCell id="VEu8UNxp2dOFBVaojpQu-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fillColor=light-dark(#FFFFFF,#F4F4F4);strokeColor=none;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Visualizações e painéis&lt;/span&gt;" vertex="1">
           <mxGeometry height="24" width="220" x="1380" y="1538" as="geometry" />
         </mxCell>
-        <mxCell id="VEu8UNxp2dOFBVaojpQu-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fillColor=light-dark(#FFFFFF,#F4F4F4);strokeColor=none;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Mecanismo de relatórios&lt;/span&gt;" vertex="1">
-          <mxGeometry height="24" width="210" x="1390" y="1581" as="geometry" />
+        <mxCell id="VEu8UNxp2dOFBVaojpQu-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=light-dark(#FFFFFF,#F4F4F4);strokeColor=none;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Mecanismo de relatórios&lt;/span&gt;" vertex="1">
+          <mxGeometry height="24" width="200" x="1390" y="1581" as="geometry" />
         </mxCell>
         <mxCell id="VEu8UNxp2dOFBVaojpQu-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fillColor=light-dark(#FFFFFF,#F6F6F6);strokeColor=none;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 30px;&quot;&gt;Componentes Centrais&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="380" x="1574" y="990" as="geometry" />
